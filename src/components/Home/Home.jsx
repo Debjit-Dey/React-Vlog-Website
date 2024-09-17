@@ -58,7 +58,7 @@ export default function Home() {
 
       
       <h1
-        className="text-center text-2xl sm:text-5xl py-10 font-medium dark:text-white"
+        className="text-center text-2xl sm:text-5xl py-10 font-medium dark:text-white text-wrap mx-12"
         style={textShadowStyle}
       >
         Stay Ahead with Expert Insights, Reviews, and Tutorials

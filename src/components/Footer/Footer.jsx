@@ -58,7 +58,7 @@ export default function Footer() {
               <ul className="text-gray-500 font-medium dark:text-gray-400">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/hiteshchoudhary"
+                    href="https://github.com/Debjit-Dey"
                     className="hover:underline"
                     target="_blank"
                     rel="noreferrer"
@@ -153,7 +153,7 @@ export default function Footer() {
               </svg>
               <span className="sr-only">Twitter page</span>
             </Link>
-            <Link to="#" className="text-gray-500 dark:text-gray-400">
+            <Link to="https://github.com/Debjit-Dey" className="text-gray-500 dark:text-gray-400">
               <svg
                 className="w-4 h-4"
                 aria-hidden="true"
