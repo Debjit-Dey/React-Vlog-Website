@@ -1,5 +1,6 @@
 import React from 'react'
 import video2 from "../../assets/video2.mp4"
+import video1 from "../../assets/video1.mp4"
 
 export default function About() {
     return (
@@ -7,7 +8,7 @@ export default function About() {
             <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6 dark:text-white">
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
-                        <video src={video2}
+                        <video src={video1}
                                controls
                                type="video/mp4"
                                autoPlay
