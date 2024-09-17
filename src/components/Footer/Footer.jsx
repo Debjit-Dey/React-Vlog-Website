@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <Link to="/" className="flex items-center">
-              <img src={logo} className="mr-3 h-28" alt="Logo" />
+              <img src={logo} className="mr-3 h-20" alt="Logo" />
             </Link>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
